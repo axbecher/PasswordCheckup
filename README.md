@@ -67,7 +67,7 @@ This is how it looks when the GitHub Action triggers:
 
 ### ⚙️ Excel Data Preview
 This is how data in excel looks:
-![Data Excel Preview](assets/data_excel_preview.png)
+![Data Excel Preview](assets/excel_data_preview.png)
 
 ---
 
