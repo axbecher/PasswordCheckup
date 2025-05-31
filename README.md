@@ -173,7 +173,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## 📬 Contact
-
-Made with ❤️ by [Alexandru Becher](https://axbecher.com/contact)
-
 For questions or improvements, feel free to open an [issue](https://github.com/axbecher/PasswordCheckup/issues) or [PR](https://github.com/axbecher/PasswordCheckup/pulls).
